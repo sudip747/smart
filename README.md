@@ -1,0 +1,2 @@
+# smart
+amazone clone 
